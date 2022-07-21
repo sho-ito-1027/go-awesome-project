@@ -1,0 +1,6 @@
+2022/07/05 10:10:50 lesson.go:312: Fatal Error open foo: no such file or directory
+2022/07/05 10:13:32 lesson.go:314: logging
+2022/07/05 10:13:32 lesson.go:315: string, test
+2022/07/05 10:13:32 lesson.go:317: string, fatal
+2022/07/05 10:13:59 lesson.go:313: Fatal Error open foo: no such file or directory
+2022/07/05 10:15:47 lesson.go:312: Fatal Error open foo: no such file or directory
